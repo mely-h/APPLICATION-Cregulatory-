@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "KekfRKGCi+Y8Gzib00D+V2pl327nfs3M3DXlrDO9ibjXPGWhFh0I0VXhuWiGjf8Ma4De/wLGhDyvgO+ZpMhtOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mac pro\\Licence (3)\\Licence\\Licence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mac pro\\.nuget\\packages\\bouncycastle\\1.8.1\\bouncycastle.1.8.1.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\itextsharp-lgpl-bouncycastle-1.8\\4.1.7\\itextsharp-lgpl-bouncycastle-1.8.4.1.7.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\mac pro\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'BouncyCastle 1.8.1' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet 'net6.0-windows7.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'iTextSharp-LGPL-BouncyCastle-1.8 4.1.7' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet 'net6.0-windows7.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "iTextSharp-LGPL-BouncyCastle-1.8",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
